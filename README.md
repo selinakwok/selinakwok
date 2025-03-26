@@ -6,7 +6,7 @@ This curiosity led me to teach myself programming, and I realized how much I enj
 With this passion I have now transitioned to a master's degree in Computer Science, where I am honing my skills in software development.
 I am deeply committed to learning and improving my skills, always eager to tackle new challenges and expand my knowledge.
 
-Feel free to check out my website: 
+Feel free to check out my website: https://selinakwok.github.io/selinakwok/ (still building!)
 
 ### In my projects...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selinakwok&hide_progress=true)
