@@ -1008,7 +1008,37 @@ section,
 .portfolio-details .portfolio-description p {
   padding: 0;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
+  margin-bottom: 0;
 }
+
+
+.swiper-slide {
+  height: auto; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img,
+.swiper-slide video {
+  max-height: 100%;
+  width: auto; 
+  object-fit: cover; 
+}
+
+.swiper-slide video {
+  max-width: 100%; 
+}
+
+.portfolio-details .skills {
+  display: flex;
+  height: auto;
+  justify-content: flex-start;
+  padding-top: 30px;
+  margin-bottom: 1rem;
+  margin-top: 0px;
+}
+
 
 /*--------------------------------------------------------------
 # Service Details Section
@@ -1082,3 +1112,4 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
