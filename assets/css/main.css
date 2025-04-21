@@ -951,10 +951,6 @@ section,
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
-.portfolio-details .portfolio-details-slider img {
-  width: 100%;
-}
-
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
   position: relative;
@@ -1013,17 +1009,19 @@ section,
 
 
 .swiper-slide {
-  height: auto; 
+  height: 100%; 
   display: flex;
   justify-content: center;
   align-items: center;
+  max-height: 100%;
 }
 
 .swiper-slide img,
 .swiper-slide video {
-  max-height: 500px;
-  width: auto; 
+  max-height: 100%;
   object-fit: cover; 
+  height: 100%;
+  width: 100%;
 }
 
 .swiper-slide video {
