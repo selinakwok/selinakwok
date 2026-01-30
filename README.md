@@ -8,8 +8,5 @@ I am deeply committed to learning and improving my skills, always eager to tackl
 
 Feel free to check out my website: https://selinakwok.github.io/selinakwok/!
 
-### In my projects...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selinakwok&hide_progress=true)
-
 <!--
 **selinakwok/selinakwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
